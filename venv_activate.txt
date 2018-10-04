@@ -1,0 +1,7 @@
+cd venv
+
+cd Scripts
+
+cicd-buzz\venv\Scripts>activate
+
+(venv) ...\cicd-buzz\venv\Scripts>
